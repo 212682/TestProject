@@ -1,7 +1,9 @@
+//Author's name:Tiew Kai Ruo
+//Matric number:212682
+//Lab No:2
+		
 package topic1;
-
 import java.util.Scanner;
-
 public class RetailSale {
 	
 	public static void main(String[] args) {
@@ -20,15 +22,10 @@ public class RetailSale {
 
 		double SaleTax = RetailPrice * SaleTaxRate/100;
 		double TotalSale = RetailPrice + RetailPrice * SaleTaxRate/100;
-		
-		
+			
 		System.out.println("Sales Tax is RM" + String.format("%.2f",SaleTax ));
 		
-		System.out.println("Total Sale is RM" + String.format("%.2f",TotalSale));
-		
-		//Author's name:Tiew Kai Ruo
-		//Matric number:212682
-		//Lab No:2
+		System.out.println("Total Sale is RM" + String.format("%.2f",TotalSale));	
 		
 	}
 

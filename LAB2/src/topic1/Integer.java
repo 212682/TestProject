@@ -1,3 +1,7 @@
+//Author's name:Tiew Kai Ruo
+//Matric number:212682
+//Lab No:2
+
 package topic1;
 import java.util.Scanner;
 
@@ -12,13 +16,9 @@ public class Integer {
         product*=number%10;
         number/=10;
         product*=number%10;
-        System.out.println("The multiplication of all digits is:" + (product));
+        System.out.println("The multiplication of all its digits is:" + (product));
         
-        //Author's name:Tiew Kai Ruo
-		//Matric number:212682
-		//Lab No:2
-		
-
+ 
 	}
 
 }

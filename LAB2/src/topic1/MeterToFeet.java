@@ -1,3 +1,10 @@
+
+//Author's name:Tiew Kai Ruo
+//Matric number:212682
+//Lab No:2
+
+
+
 package topic1;
 import java.util.Scanner;
 public class MeterToFeet{
@@ -17,9 +24,6 @@ public class MeterToFeet{
 			System.out.println("Total= " + String.format("%.3f", total));
 			
 			
-			//Author's name:Tiew Kai Ruo
-			//Matric number:212682
-			//Lab No:2
 			
 		
 		}

@@ -1,3 +1,7 @@
+//Author's name:Tiew Kai Ruo
+//Matric number:212682
+//Lab No:2
+
 
 package topic1;
 
@@ -19,14 +23,8 @@ public class MileToKilometer{
 		System.out.println(total);
 		System.out.println("Total= " + String.format("%.2f", total));
 		
-		
-		//Author's name:Tiew Kai Ruo
-		//Matric number:212682
-		//Lab No:2
-		
-	
+			
 	}
 
 	
-
 }
